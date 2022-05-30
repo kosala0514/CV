@@ -1,0 +1,22 @@
+body{
+    margin: 40px;
+    background-color: #e6f6f6;
+}
+h1{
+    color: rgb(37, 207, 207);
+}
+h2{
+    color: rgb(24, 223, 223);
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color : grey;
+    border-width: 5px;
+    width: 5%;
+}
+.pro__{
+    width: 200px;
+    height: 220px;
+    border-radius: 50%;
+}
